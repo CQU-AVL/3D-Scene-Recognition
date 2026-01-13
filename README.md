@@ -8,10 +8,10 @@ Accurate and robust scene recognition is essential for both autonomous vehicles 
 ![b17ee4d2b2c1ab1ceb22e9aa985a8b63](https://github.com/user-attachments/assets/bf52f110-2ab4-4438-a754-1e6ddac8c98a)
 
 ## Preprocessing pipeline
-<img width="422" height="242" alt="image" src="https://github.com/user-attachments/assets/02b05f44-4371-4010-87bf-dc67e9ec679b" />
+![bff3ee3691ea2d2ec961317b0b96a4d8](https://github.com/user-attachments/assets/516cc3bd-2e82-48f3-ab41-2806193b3022)
 
 ## Construction method
-<img width="495" height="204" alt="image" src="https://github.com/user-attachments/assets/7f3b2394-9a42-4736-9ec5-7ef0cf9fb1a8" />
+![8970325cde661f29a66cfe065163db53](https://github.com/user-attachments/assets/c36a005e-567a-43e3-ae01-61a10f57ffc7)
 
 # RESULT
 ## Scene recognition results on the MulRan dataset.
