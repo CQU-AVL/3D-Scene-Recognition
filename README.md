@@ -5,3 +5,5 @@ Accurate and robust scene recognition is essential for both autonomous vehicles 
 Keywords: Autonomous vehicles, Mobile robots, SLAM, Localization, Global descriptors.
 Algorithm framework
 <img width="649" height="297" alt="image" src="https://github.com/user-attachments/assets/586d58d0-e2e3-41dd-8f6e-80b0f6ea0bd8" />
+Preprocessing pipeline of point cloud
+<img width="422" height="242" alt="image" src="https://github.com/user-attachments/assets/02b05f44-4371-4010-87bf-dc67e9ec679b" />
